@@ -4,6 +4,8 @@ Recreación en Noesis del concepto de UI *Skill Tree* de Łukasz Wronka (ArtStat
 La disposición, los estados y la paleta (`#13141B`, `#D6281C`, `#FFC582`, `#FFFFFF`) siguen la
 hoja del concepto. Los íconos son glifos propios, no los del artista.
 
+![Compra, revelado de vecinos, denegación y APPLY](docs/unlock.gif)
+
 ```
 skill-tree-concept/
 ├── C++/
