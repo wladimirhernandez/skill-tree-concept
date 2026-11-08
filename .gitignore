@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# MSBuild intermediates (bin2h output lives here)
+C++/Projects/**/build.vs*/
+
+# Local tooling caches
+.atl/
